@@ -1,8 +1,5 @@
+Hi I'am @ThatOtheFurry. 
+I just read and do coding/code practice 
+to increase my skills on coding
+and yep that's it.
 
-- 👀 I’m interested in ...
-- 🌱 I’m 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ThatOtherFurry/ThatOtherFurry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
